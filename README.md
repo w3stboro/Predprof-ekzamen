@@ -1,1 +1,2 @@
-# Predprof-ekzamen
+Predprof ekzamen
+Предпрофессиональный экзамен для 11 ИТ класса 
